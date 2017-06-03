@@ -5,7 +5,7 @@
 		{
 			"id": "dabur_default",
 			"name": "Default",
-			"zip": ["https://test.com/Kodi.Pack.[VER].zip"],
+			"zip": ["https://github.com/TheDabur/DBuild/raw/master/Dabur.Pack.[VER].zip"],
 			"addons": ["plugin.audio.mixcloud","plugin.image.500px", "plugin.video.zen"],
 			"img": "http://i.imgur.com/aaaa.jpg",
 			"fanart": "http://i.imgur.com/aaaa.jpg",
