@@ -20,7 +20,7 @@
 				["addons.unknownsources", "true"],
 				["general.addonnotifications", "true"],
 				["general.systemtotaluptime", "91"],
-				["general.settinglevel", 3],
+				["settinglevel", "3"],
 				["locale.country", "Israel"],
 				["locale.keyboardlayouts", "English QWERTY|Hebrew QWERTY"],
 				["locale.language", "resource.language.he_il"],
