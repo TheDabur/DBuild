@@ -5,7 +5,7 @@
 		{
 			"id": "dabur_default",
 			"name": "Default",
-			"zip": ["https://github.com/TheDabur/DBuild/raw/master/Dabur.Pack.[VER].zip"],
+			"zip": ["https://github.com/TheDabur/packages/raw/master/Dabur.Pack.[VER].zip"],
 			"addons": [
 				"plugin.audio.mixcloud",
 				"plugin.image.500px",
