@@ -9,24 +9,36 @@
 			"addons": [
 				"plugin.audio.mixcloud",
 				"plugin.image.500px",
-				"plugin.video.zen"
+				"plugin.video.zen",
+				"service.subtitles.thewiz",
+				"weather.yahoo"
 			],
 			"img": "http://i.imgur.com/aaaa.jpg",
 			"fanart": "http://i.imgur.com/aaaa.jpg",
 			"description": "Default service.",
 			"settings": [
-				["locale.language", "hebrew"]
+				["addons.unknownsources", "true"],
+				["general.addonnotifications", "true"],
+				["general.systemtotaluptime", "91"],
+				["locale.country", "Israel"],
+				["locale.keyboardlayouts", "English QWERTY|Hebrew QWERTY"],
+				["locale.language", "resource.language.he_il"],
+				["locale.subtitlelanguage", "Hebrew"],
+				["lookandfeel.font", "OpenSansHebrew"],
+				["lookandfeel.skin", "skin.eminence.2.mod"],
+				["lookandfeel.soundskin", ""],
+				["services.esallinterfaces", "true"],
+				["subtitles.downloadfirst", "true"],
+				["subtitles.font", "ntkl.ttf"],
+				["subtitles.height", "40"],
+				["subtitles.languages", "Hebrew"],
+				["subtitles.movie", "service.subtitles.thewiz"],
+				["subtitles.tv", "service.subtitles.thewiz"],
+				["videolibrary.backgroundupdate", "true"],
+				["videolibrary.updateonstartup", "true"],
+				["videoplayer.stretch43", "4"],
+				["weather.addon", "weather.yahoo"]
 			]
-		},
-		{
-			"id": "dabur_adult",
-			"name": " BWizard",
-			"zip": ["https://test.com/Kodi.Pack.[VER].zip"],
-			"addons": ["plugin.audio.mixcloud","plugin.image.500px"],
-			"img": "http://i.imgur.com/aaaa.jpg",
-			"fanart": "http://i.imgur.com/aaaa.jpg",
-			"description": "Adult service.",
-			"settings": []
 		}
 	]
 }
