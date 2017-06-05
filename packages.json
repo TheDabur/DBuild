@@ -25,7 +25,7 @@
 				"locale.language": "resource.language.he_il",
 				"locale.keyboardlayouts": "English QWERTY|Hebrew QWERTY",
 				"locale.subtitlelanguage": "Hebrew",
-				"lookandfeel.font": "OpenSansHebrew",
+				"lookandfeel.font": "Arial",
 				"lookandfeel.skin": "skin.estuary",
 				"lookandfeel.soundskin": "",
 				"services.esallinterfaces": "true",
