@@ -23,7 +23,7 @@
 				"general.settinglevel": "3",
 				"locale.country": "Israel",
 				"locale.language": "resource.language.he_il",
-				"locale.keyboardlayouts": "English QWERTY|Hebrew QWERTY",
+				"locale.keyboardlayouts": "English QWERTY,Hebrew QWERTY",
 				"locale.subtitlelanguage": "Hebrew",
 				"lookandfeel.font": "Arial",
 				"lookandfeel.skin": "skin.estuary",
