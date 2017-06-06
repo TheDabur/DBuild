@@ -32,7 +32,7 @@
 				"subtitles.downloadfirst": "true",
 				"subtitles.font": "ntkl.ttf",
 				"subtitles.height": "40",
-				"subtitles.languages": "Hebrew",
+				"subtitles.languages": ["Hebrew"],
 				"subtitles.movie": "service.subtitles.thewiz",
 				"subtitles.tv": "service.subtitles.thewiz",
 				"videolibrary.backgroundupdate": "true",
