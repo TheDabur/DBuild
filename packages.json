@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"repos": [
 		{"info": "https://offshoregit.com/exodus/repository.exodus/", "datadir": ""},
+		{"info": "https://github.com/dandy0850/dandymedia/raw/master", "datadir": "repo"},
 		{"info": "http://mirror.nl.leaseweb.net/xbmc/addons/krypton/", "datadir": ""},
 		{"info": "https://raw.githubusercontent.com/kodil/kodil/master/", "datadir": "repo"},
 		{"info": "https://raw.githubusercontent.com/cubicle-vdo/xbmc-israel/master/", "datadir": "repo"}
@@ -21,7 +22,8 @@
 				"plugin.video.bob",
 				"plugin.video.specto",
 				"plugin.video.genesis",
-				"plugin.video.supercartoons",
+				"plugin.video.cartoonson",
+				"plugin.video.supercartoons_gw",
 				"plugin.video.exodus",
 				"plugin.audio.mixcloud",
 				"plugin.image.500px",
