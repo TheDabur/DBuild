@@ -14,6 +14,7 @@
 			"zip": ["https://github.com/TheDabur/packages/raw/master/Dabur.Pack.[VER].zip"],
 			"addons": [
 				"repository.exodus",
+				"plugin.video.exodus",
 				"plugin.audio.mixcloud",
 				"plugin.image.500px",
 				"plugin.video.zen",
