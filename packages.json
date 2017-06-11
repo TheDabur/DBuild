@@ -2,6 +2,7 @@
 {
 	"version": "1.0.0",
 	"repos": [
+		{"info": "https://offshoregit.com/exodus/repository.exodus/", "datadir": ""},
 		{"info": "http://mirror.nl.leaseweb.net/xbmc/addons/krypton/", "datadir": ""},
 		{"info": "https://raw.githubusercontent.com/kodil/kodil/master/", "datadir": "repo"},
 		{"info": "https://raw.githubusercontent.com/cubicle-vdo/xbmc-israel/master/", "datadir": "repo"}
