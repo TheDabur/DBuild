@@ -1,12 +1,18 @@
 
 {
 	"version": "1.0.0",
+	"repos": [
+		{"info": "http://mirror.nl.leaseweb.net/xbmc/addons/krypton/", "datadir": ""},
+		{"info": "https://raw.githubusercontent.com/kodil/kodil/master/", "datadir": "repo"},
+		{"info": "https://raw.githubusercontent.com/cubicle-vdo/xbmc-israel/master/", "datadir": "repo"}
+	],
 	"packages": [
 		{
 			"id": "dabur_default",
 			"name": "Default",
 			"zip": ["https://github.com/TheDabur/packages/raw/master/Dabur.Pack.[VER].zip"],
 			"addons": [
+				"repository.exodus",
 				"plugin.audio.mixcloud",
 				"plugin.image.500px",
 				"plugin.video.zen",
