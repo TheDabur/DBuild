@@ -4,6 +4,7 @@
 	"repos": [
 		{"info": "https://offshoregit.com/exodus/repository.exodus/", "datadir": ""},
 		{"info": "http://github.com/k3l3vra1/k3l3vra.repo/raw/master/", "datadir": "zips"},
+		{"info": "https://raw.githubusercontent.com/noobsandnerds/noobsandnerds/master/zips/", "datadir": ""},
 		{"info": "http://www.jesusboxrepo.xyz/Plugins/", "datadir": ""},
 		{"info": "https://github.com/dandy0850/dandymedia/raw/master", "datadir": "repo"},
 		{"info": "http://mirror.nl.leaseweb.net/xbmc/addons/krypton/", "datadir": ""},
@@ -20,6 +21,9 @@
 				"repository.kodil",
 				"repository.xbmc-israel",
 				"repository.k3l3vra",
+				"repository.noobsandnerds",
+				"repository.nanaddons",
+				"repository.elysium",
 				"plugin.video.velocity",
 				"plugin.video.bob",
 				"plugin.video.specto",
