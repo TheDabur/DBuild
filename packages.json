@@ -37,6 +37,8 @@
 				"plugin.video.baby",
 				"plugin.video.freshstart",
 				"service.subtitles.thewiz",
+				"service.subtitles.opensubtitles_by_opensubtitles",
+				"service.subtitles.podnapisi",
 				"service.subtitles.subscenter",
 				"service.subtitles.bsplayer",
 				"service.nextup.notification",
