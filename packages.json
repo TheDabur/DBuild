@@ -1,6 +1,6 @@
 
 {
-	"version": "1.0.1",
+	"version": "1.0.0",
 	"repos": [
 		{"info": "https://offshoregit.com/exodus/repository.exodus/", "datadir": ""},
 		{"info": "http://github.com/k3l3vra1/k3l3vra.repo/raw/master/", "datadir": "zips"},
