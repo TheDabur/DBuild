@@ -3,10 +3,6 @@
 	"version": "1.0.0",
 	"repos": [
 		{
-			"info": "http://xml.superrepo.org/v7/.xml/krypton/all/",
-			"datadir": "http://redirect.superrepo.org/v7/addons/"
-		},
-		{
 			"info": "http://github.com/k3l3vra1/k3l3vra.repo/raw/master/",
 			"datadir": "zips"
 		},
@@ -48,6 +44,7 @@
 				"repository.noobsandnerds",
 				"repository.nanaddons",
 				"repository.elysium",
+				"superrepo.kodi.krypton",
 				"plugin.video.bob",
 				"plugin.video.specto",
 				"plugin.video.genesisreborn",
