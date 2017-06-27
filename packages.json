@@ -3,8 +3,8 @@
 	"version": "1.0.0",
 	"repos": [
 		{
-			"info": "https://offshoregit.com/exodus/repository.exodus/",
-			"datadir": ""
+			"info": "http://xml.superrepo.org/v7/.xml/krypton/all/",
+			"datadir": "http://redirect.superrepo.org/v7/addons/"
 		},
 		{
 			"info": "http://github.com/k3l3vra1/k3l3vra.repo/raw/master/",
