@@ -3,6 +3,10 @@
 	"version": "1.0.0",
 	"repos": [
 		{
+			"info": "https://raw.githubusercontent.com/TheDabur/repo/master/",
+			"datadir": "repo"
+		},
+		{
 			"info": "http://github.com/k3l3vra1/k3l3vra.repo/raw/master/",
 			"datadir": "zips"
 		},
@@ -49,6 +53,7 @@
 				"repository.sdarot",
 				"repository.thedabur",
 				"superrepo.kodi.krypton",
+				"skin.titan.heb",
 				"plugin.video.elysium",
 				"plugin.video.baby",
 				"plugin.video.bob",
@@ -86,8 +91,7 @@
 				"weather.yahoo",
 				"plugin.program.autocompletion",
 				"plugin.program.indigo",
-				"plugin.program.super.favourites",
-				"skin.titan.heb"
+				"plugin.program.super.favourites"
 			],
 			"img": "http://i.imgur.com/aaaa.jpg",
 			"fanart": "http://i.imgur.com/aaaa.jpg",
