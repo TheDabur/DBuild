@@ -71,6 +71,7 @@
 				"plugin.video.sdarot.tv",
 				"plugin.video.seretil",
 				"plugin.video.specto",
+				"plugin.video.flixnet",
 				"plugin.video.tenil",
 				"plugin.video.Vodil",
 				"plugin.video.wallaNew.video",
@@ -90,7 +91,6 @@
 				"metadata.tvdb.com",
 				"weather.yahoo",
 				"plugin.program.autocompletion",
-				"plugin.program.indigo",
 				"plugin.program.super.favourites",
 				"resource.images.busyspinners.basic"
 			],
