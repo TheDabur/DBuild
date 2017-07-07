@@ -112,7 +112,7 @@
 				"services.esallinterfaces": "true",
 				"subtitles.downloadfirst": "true",
 				"subtitles.font": "ntkl.ttf",
-				"subtitles.height": "40",
+				"subtitles.height": "32",
 				"subtitles.languages": ["Hebrew"],
 				"subtitles.movie": "service.subtitles.wizdom",
 				"subtitles.tv": "service.subtitles.wizdom",
